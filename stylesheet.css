@@ -23,8 +23,11 @@ img {
 	top:10px;
 	left:50%;
 	margin-left:-254px;
+	
 }
-
+#navbar a {
+	color: #ffffff;
+}
 #header {
 	position: relative;
 	top: -10px;
