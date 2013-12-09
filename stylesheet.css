@@ -27,6 +27,7 @@ img {
 }
 #navbar a {
 	color: #ffffff;
+	text-decoration:none; 
 }
 #header {
 	position: relative;
