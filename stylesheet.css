@@ -29,6 +29,9 @@ img {
 	color: #ffffff;
 	text-decoration:none; 
 }
+#navbar a;active {
+	color: #b7d1c4; 
+}
 #header {
 	position: relative;
 	top: -10px;
