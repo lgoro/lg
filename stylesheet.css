@@ -29,8 +29,8 @@ img {
 	color: #ffffff;
 	text-decoration:none; 
 }
-#navbar a;active {
-	color: #b7d1c4; 
+#navbar a:hover {
+	 color:#b7d1c4; 
 }
 #header {
 	position: relative;
