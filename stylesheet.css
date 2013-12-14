@@ -45,7 +45,9 @@ ul{
 	position: fixed;
 	margin: -10px;
 }
-
+    body#home li#homenav, body#about li#aboutnav, body#plans li#plansnav, body#contact li#contactnav {
+	background-color:#000;
+}
 li {
 	display: inline;
 	border: 2px solid #000000;
